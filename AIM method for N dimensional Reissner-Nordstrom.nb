@@ -1,3 +1,6 @@
+(* This is a notebook adapted from the method described in "A New Approach to Black Hole Quasinormal Modes: A Review of the Asymptotic Iteration Method". 
+The code below solves from the Quasi Normal Modes of spin-3/2 fields near an N-Dimensional Reissner-Nordstrom black.*)
+
 (* Content-type: application/vnd.wolfram.mathematica *)
 
 (*** Wolfram Notebook File ***)
